@@ -10,7 +10,7 @@ My name is Gregorio Giorgino, I am 25 yrs old, and I come from a city in Apulia,
 To be strong and passionate about all the IT world and also to be always curious to know how the things works.
 
 ####  📫 How to reach me?
-You can send me an e-mail [mailto:giorgino.greg@gmail.com](here) or you can see my [https://www.linkedin.com/in/gregorio-giorgino-752759140](Linkedin Profile).
+You can send me an e-mail [here](mailto:giorgino.greg@gmail.com) or you can see my [Linkedin Profile](https://www.linkedin.com/in/gregorio-giorgino-752759140).
 <!--
 **giorginogreg/giorginogreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
