@@ -28,7 +28,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Gregorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorginogreg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorginogreg&hide=cplusplus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giorginogreg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorginogreg&hide=cplusplus&layout=compact" />
+</a>
 
 #### A special Thanks to [Federica Schillaci](https://www.linkedin.com/in/federica-schillaci/) for having inspired me!
