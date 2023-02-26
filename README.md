@@ -14,6 +14,13 @@ To be strong and passionate about all the IT world and also to be always curious
 
 ### 📫 How to reach me? 
 You can send me an e-mail [here](mailto:giorgino.greg@gmail.com) or you can see my [Linkedin Profile](https://www.linkedin.com/in/gregorio-giorgino-752759140).
+### Some nerdy things i like...
+![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
+Store data in databases like...
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+and improve continuously my code via... 
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 <!--
 **giorginogreg/giorginogreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
