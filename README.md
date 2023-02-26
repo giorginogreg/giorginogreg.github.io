@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Gregorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorginogreg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorginogreg&hide=cplusplus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### A special Thanks to [Federica Schillaci](https://www.linkedin.com/in/federica-schillaci/) for having inspired me!
