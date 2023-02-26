@@ -36,4 +36,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorginogreg&hide=cplusplus&layout=compact" />
 </a>
 </div>
+
 #### A special Thanks to [Federica Schillaci](https://www.linkedin.com/in/federica-schillaci/) for having inspired me!
