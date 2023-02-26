@@ -1,15 +1,15 @@
-## Hi there 👋 :house: :octocat:
+## 👋 Hi there 👋 :house: 
 
-Thanks for reaching me, and welcome to my beautiful GitHub Profile!
+Thanks for reaching me, and welcome to this beautiful :octocat: **GitHub** :octocat: Profile!
 But first..
 
-### Who I am?
+### :bowtie: Who I am? 
 My name is Gregorio Giorgino, I am 25 yrs old, and I come from a city in Apulia, in the south of Italy.
 
-### My best skills?
+### :computer: My best skills? 
 To be strong and passionate about all the IT world and also to be always curious to know how the things works.
 
-###  📫 How to reach me?
+### 📫 How to reach me? 
 You can send me an e-mail [here](mailto:giorgino.greg@gmail.com) or you can see my [Linkedin Profile](https://www.linkedin.com/in/gregorio-giorgino-752759140).
 <!--
 **giorginogreg/giorginogreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Gregorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorginogreg&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Gregorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorginogreg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
