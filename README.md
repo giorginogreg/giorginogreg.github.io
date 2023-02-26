@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giorginogreg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorginogreg&hide=cplusplus&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorginogreg&hide=C++&layout=compact" />
 </a>
 </div>
 
