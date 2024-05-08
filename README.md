@@ -7,7 +7,7 @@ Thanks for reaching me, and welcome to this beautiful :octocat: **GitHub** :octo
 But first..
 
 ### :bowtie: Who I am? 
-My name is Gregorio Giorgino, I am 25 yrs old, and I come from a city in Apulia, in the south of Italy.
+My name is Gregorio Giorgino, I am (Year.getCurrent()-1997) yrs old, and I come from a city in Apulia, in the south of Italy.
 
 ### :computer: My best skills? 
 To be strong and passionate about all the IT world and also to be always curious to know how the things works.
