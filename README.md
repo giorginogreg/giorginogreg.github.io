@@ -1,3 +1,5 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
 ![221401494-7e4fd272-1670-4f13-ba58-6291861434d9 (1)](https://github.com/user-attachments/assets/a83a4466-8513-4202-bf3a-3baeb75e9880)
 ---
 <h1 align="center"> 👋 Hi there 👋 :house: </h1>
