@@ -2,15 +2,15 @@
 
 ![221401494-7e4fd272-1670-4f13-ba58-6291861434d9 (1)](https://github.com/user-attachments/assets/a83a4466-8513-4202-bf3a-3baeb75e9880)
 ---
-<h1 align="center"> 👋 Hi there 👋 :house: </h1>
+<h1 align="center"> 👋 Hi there 👋 🏠 </h1>
 
 Thanks for reaching me, and welcome to this beautiful :octocat: **GitHub** :octocat: Profile!
 But first..
 
-### :bowtie: Who I am? 
+### <img class="emoji" title=":bowtie:" alt=":bowtie:" src="https://github.githubassets.com/images/icons/emoji/bowtie.png" height="20" width="20" align="absmiddle"> Who I am? 
 My name is Gregorio Giorgino, I am (Year.getCurrent()-1997) yrs old, and I come from a city in Apulia, in the south of Italy.
 
-### :computer: My best skills? 
+### <img class="emoji" title=":computer:" alt=":computer:" src="https://github.githubassets.com/images/icons/emoji/computer.png" height="20" width="20" align="absmiddle"> My best skills? 
 To be strong and passionate about all the IT world and also to be always curious to know how the things works.
 
 ### 📫 How to reach me? 
